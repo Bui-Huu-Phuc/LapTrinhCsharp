@@ -1,0 +1,4 @@
+servername=MYFUKINPC
+database=QLBanHang
+username=sa
+password=123
