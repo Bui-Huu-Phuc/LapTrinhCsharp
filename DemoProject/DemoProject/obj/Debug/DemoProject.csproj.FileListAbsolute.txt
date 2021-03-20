@@ -1,0 +1,57 @@
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.formLogin.resources
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.employee.resources
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\obj\Debug\DemoProject.Menu.resources
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.employee.resources
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.formLogin.resources
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.Menu.resources
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Users\PM\Desktop\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+D:\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+D:\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+D:\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.employee.resources
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.formLogin.resources
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.Menu.resources
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+D:\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.employee.resources
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.formLogin.resources
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.Menu.resources
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+E:\Hoc Tap\Data\Lập trình ứng dụng SQL\DemoProject\DemoProject\DemoProject\obj\Debug\DemoProject.UpdateUser.resources
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.csprojResolveAssemblyReference.cache
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.employee.resources
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.formLogin.resources
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.Menu.resources
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.UpdateUser.resources
+C:\Users\PM\Desktop\LapTrinhCsharp-master\LapTrinhCsharp-master\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.Cache
